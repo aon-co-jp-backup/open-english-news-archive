@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # open-english ニュースアーカイブ / News Archive
 
 open-english が集めた各国のニュースの**見出しとリンクのみ**を、国別ページ(`wiki/`)として公開しています。
